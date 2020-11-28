@@ -25,7 +25,7 @@ You can change/improve the UI if you want.
 
 If you find time, it'd be great to see this implemented:
 
-- Unit tests
+- Unit tests using (Testing Library)[https://testing-library.com/]
 - Be creative and surprise us, if you have a cool idea to implement go for it.
 
 # What are we looking for?
