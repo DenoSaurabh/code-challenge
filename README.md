@@ -11,6 +11,8 @@ You need to create a GitHub Viewer application where users can insert a specific
 
 This is the same challenged implemented as a reference: https://github-viewer-zeta.vercel.app/
 
+## Stack
+
 We'd like to see this challenged implemented using this stack:
 
 - Next.js using Static Site Generation whenever possible
@@ -19,10 +21,12 @@ We'd like to see this challenged implemented using this stack:
 
 You can improve the design if you want.
 
-# Bonus
+## Bonus
+
+If you find time, it'd be great to see this implemented:
 
 - Unit tests
-- Emotion
+- Be creative and surprises us, if you have a cool idea to implement go for it.
 
 # What are we looking for?
 
