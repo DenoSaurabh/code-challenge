@@ -1,4 +1,4 @@
-# QnA
+# Questions
 
 ### Planning
 
