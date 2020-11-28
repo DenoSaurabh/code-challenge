@@ -26,7 +26,7 @@ You can improve the design if you want.
 If you find time, it'd be great to see this implemented:
 
 - Unit tests
-- Be creative and surprises us, if you have a cool idea to implement go for it.
+- Be creative and surprise us, if you have a cool idea to implement go for it.
 
 # What are we looking for?
 
