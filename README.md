@@ -15,7 +15,7 @@ This is the same challenged implemented as a reference: https://github-viewer-ze
 
 We'd like to see this challenged implemented using this stack:
 
-- Next.js using Static Site Generation whenever possible
+- Next.js using [Static Site Generation](https://nextjs.org/docs/basic-features/data-fetching#getstaticprops-static-generation) whenever possible
 - TypeScript
 - GraphQL with Apollo (This is the GitHub GraphQL API: https://developer.github.com/v4/)
 
