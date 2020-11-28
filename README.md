@@ -19,7 +19,7 @@ We'd like to see this challenged implemented using this stack:
 - TypeScript
 - GraphQL with Apollo (This is the GitHub GraphQL API: https://developer.github.com/v4/)
 
-You can improve the design if you want.
+You can change/improve the UI if you want.
 
 ## Bonus
 
