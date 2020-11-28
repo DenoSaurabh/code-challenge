@@ -7,7 +7,8 @@ You need to create a GitHub Viewer application where users can insert a specific
 ## Workflow:
 
 - User type a repository
-- The application shows up issues open and closed as well as pull requests for that specific repository.
+- The application shows up issues all issues related to that repository.
+- User should be able to filter by all, open, closed or pull requests.
 
 This is the same challenged implemented as a reference: https://github-viewer-zeta.vercel.app/
 
