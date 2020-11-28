@@ -4,9 +4,7 @@ This is a small code challenge used as part of our interview process.
 
 You need to create a GitHub Viewer application where users can insert a specific repository and se information about it.
 
-First of all you need to fork this repository and 
-
-The workflow would be something like this:
+## Workflow:
 
 - User type a repository
 - The application shows up issues open and closed as well as pull requests for that specific repository.
