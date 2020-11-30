@@ -33,4 +33,4 @@ If you find time, it'd be great to see this implemented:
 
 We want to see how do you organize and structure your code int terms of reusability and maintainability.
 
-God luck!
+Good luck!
